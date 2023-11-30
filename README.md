@@ -9,3 +9,8 @@ Application allows users to add items to their cart, update the cart items, and 
 The shopping cart application makes use of React hooks and a global state management system with the context API.
 
 Reducer function is used for handling actions such as clearing cart, removing items, increasing or decreasing the amount of items in the cart, displaying items in the cart, and calculating the total cost of items in the cart Uses React hooks are used state management and side effects handling.
+
+## NOTE*** 
+node version: 16.15.0
+
+npm version: 8.5.5
